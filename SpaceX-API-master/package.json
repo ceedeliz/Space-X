@@ -49,7 +49,7 @@
     "koa-router": "^7.4.0",
     "koa2-cors": "^2.0.6",
     "lower-case": "^1.1.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.25",
     "mongodb": "^3.2.6",
     "path": "^0.12.7",
